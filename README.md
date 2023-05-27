@@ -11,7 +11,6 @@
 
 -   💻 &nbsp;
     ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 -   🌐 &nbsp;
     ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
     ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,7 +30,7 @@
 
 <br/>
 
-<a href="https://github.com/ShadowFax1731">
+<a href="https://github.com/Mahesh015-code">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahesh015-code&theme=dracula&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh015-code&theme=dracula&layout=compact" />
 </a>
